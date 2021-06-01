@@ -29,3 +29,9 @@ in body
 
 DELETE
 https://makeup-back.herokuapp.com/api/main/delete/{id}
+
+ Backend:
+https://makeup-back.herokuapp.com/api/main
+
+Swagger:
+https://makeup-back.herokuapp.com/swagger-ui.html
