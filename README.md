@@ -35,3 +35,6 @@ https://makeup-back.herokuapp.com/api/main
 
 Swagger:
 https://makeup-back.herokuapp.com/swagger-ui.html
+
+
+![alt text](screenshots/gigi.png)
