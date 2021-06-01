@@ -1,0 +1,29 @@
+.navbar {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 18px;
+    color: #000;
+}
+
+.link {
+    color: #000;
+}
+
+.item > button {
+    display: grid;
+    place-items: center;
+}
+
+.icon {
+    font-size: 30px;
+}
